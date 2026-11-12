@@ -1,0 +1,29 @@
+[
+  {
+    "id": "produs-001",
+    "name": "Șampon auto concentrat",
+    "description": "Exemplu de produs – înlocuiește cu produsul și descrierea furnizorului.",
+    "price": 39.9,
+    "icon": "✧",
+    "supplier": "",
+    "image": ""
+  },
+  {
+    "id": "produs-002",
+    "name": "Soluție pentru curățare interior",
+    "description": "Exemplu de produs – verifică specificațiile și compatibilitatea.",
+    "price": 49.9,
+    "icon": "◈",
+    "supplier": "",
+    "image": ""
+  },
+  {
+    "id": "produs-003",
+    "name": "Laveta microfibră",
+    "description": "Exemplu de accesoriu pentru întreținerea suprafețelor.",
+    "price": 19.9,
+    "icon": "▧",
+    "supplier": "",
+    "image": ""
+  }
+]
